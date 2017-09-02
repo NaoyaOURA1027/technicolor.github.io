@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[ブログ立ち上げてみました]]></title>
+      <url>/2017/09/02/20170902-hexo-blog-start/</url>
+      <content type="html"><![CDATA[<h1 id="ブログ作ってみました"><a href="#ブログ作ってみました" class="headerlink" title="ブログ作ってみました"></a>ブログ作ってみました</h1><p>以前から知人に</p>
+<ul>
+<li>「HPやブログを立ち上げたいが、どうしたらよいか」<br>という質問を受けることがあって、そのたびに</li>
+<li>「かんたんに作れるやつあるよ」<br>と返信して、参考文献を送るだけだったので、今日は自分で立ち上げて試してみました。</li>
+</ul>
+<p>いくつか候補があがりましたが、今回は <strong>Hexo</strong> をつかってつくってみました！<br>ざっと参考にしたのが、↓のページ</p>
+<ul>
+<li><a href="https://dotstud.io/blog/hexo-static-site-vol1/" target="_blank" rel="external">Node.js製の静的サイトジェネレータ「Hexo」で無料ブログ開発 vol.1</a></li>
+<li><a href="https://dotstud.io/blog/hexo-static-site-vol2/" target="_blank" rel="external">Node.js製の静的サイトジェネレータ「Hexo」で無料ブログ開発 vol.2</a></li>
+</ul>
+<p>実際にやってみて、簡単!でしたが、<br>まあGitやコマンドラインを使った人がない人には、なかなかハードルが高いな…というのが、心象。。</p>
+<p>そしてSSHのエラーではまる。<br>そして、そもそも論として、Mac利用前提で記載しているため、Windowsユーザにはやりずらい。<br>コマンドラインとか開き方知っていないとツライ。</p>
+<p>ということで、</p>
+<ul>
+<li>「HPやブログを立ち上げたいがどうしたらよいですか？」<br>という質問をする人には、塩対応だったなと反省。</li>
+</ul>
+<p>いろんなところに立ち上げ方は書いてあるので面倒なので、説明は書かないですが、<br>これからは立ち上げ最初は手伝おうと感じました。</p>
+<p>っと、そんなとりとめのないことを少しずつ記載していこうかなと。</p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 初回,Hexo,ブログ </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+</search>
